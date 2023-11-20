@@ -99,5 +99,6 @@ npm install @radix-ui/react-toast
 
 ## shadcnui
 
+## CHANGE THE APP-NAME IN THE FILE NAME [site.ts](config/site.ts)
 
-## CHANGE THE NAME IN THE FILE NAME site.ts[config/site.ts]
+## CHANGE THE APP-NAME IN THE FILE NAME [pakcage.json](./package.json)
